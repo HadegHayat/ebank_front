@@ -1,8 +1,10 @@
+)
 
-![newCust.PNG](..%2FCaptures%2FnewCust.PNG)
+![New Customer](../Captures/newCust.PNG)
 
+![Customers](../Captures/custs.PNG)
 
+![Customers](../Captures/custs.PNG)
 
+![Registered Customer](../Captures/Rcust.PNG)
 
-![custs.PNG](..%2FCaptures%2Fcusts.PNG)
-![custs.PNG](..%2FCaptures%2Fcusts.PNG)![Rcust.PNG](..%2FCaptures%2FRcust.PNG)
